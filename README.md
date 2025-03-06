@@ -7,7 +7,7 @@ Approach:
 Data Collection: Collected student data including demographics and test scores.
 Data Processing: Cleaned and preprocessed the data using techniques like handling missing values, encoding categorical variables, and scaling numerical features.
 
-Modeling: Used Scikit-learn to train various machine learning models (e.g., Random Forest, Linear Regression) and evaluated them to select the best-performing model.
+Modeling: Used Scikit-learn to train various machine learning models  and evaluated them to select the best-performing model.
 
 Exploratory Data Analysis (EDA): Analyzed the relationships between the data features and test scores to inform model training.
 
